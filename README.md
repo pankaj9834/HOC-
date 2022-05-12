@@ -1,0 +1,2 @@
+# HOC-
+Higher order component
